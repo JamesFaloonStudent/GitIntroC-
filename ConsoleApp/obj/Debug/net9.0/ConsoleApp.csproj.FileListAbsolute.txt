@@ -1,0 +1,15 @@
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ConsoleApp.sourcelink.json
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/home/james/Documents/Sheridan/Year2.6/C#/lectures/Week1Day2/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
